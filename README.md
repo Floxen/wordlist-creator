@@ -13,4 +13,4 @@ This Python script generates a variety of word combinations from user-provided w
 4. Run the script using the following command:
 
    ```sh
-   python wordlist_generator.py
+   python3 main.py
